@@ -1,5 +1,5 @@
 # MushroomEternalMod
-Currently: BETA 1.0.2
+Currently: BETA 1.0.0
 
 Description:
 Hypixel Skyblock auction flipping mod. It basically just tells you underpriced items, so you can put them up for a higher price to make $$$. Do /ME to set the config, and /ME ON to start the mod. You have to start the mod everytime you join Hypixel.
