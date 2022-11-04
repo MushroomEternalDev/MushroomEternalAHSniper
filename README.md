@@ -28,4 +28,4 @@ NOTE: The more money you have the more money you will make. (Very common sense, 
 
 Report bugs pls.
 
-DM GRAPES#3522 on Discord if you have problems.
+DM GRAPES#3522 on Discord if you have problems (Server Coming Soon).
