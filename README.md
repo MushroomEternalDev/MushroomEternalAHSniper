@@ -20,8 +20,8 @@ USE AT YOUR OWN RISK FEATURES:
 - Automatically buys items and sells them for lowest BIN
 - Anti-Escrow
 - Auto buy booster cookie (for /ah and no AFK kicks)
-- The things listed in this category are not detected, but probably don't follow Hypixel's rules. DO NOT USE THE FEATURES IN "USE AT YOUR OWN RISK FEATURES:" IF YOU DON'T WANT TO RISK A BAN. If you get banned report it in the discord. I am not responsible if you get banned.
+- The things listed in this category are not detected, but probably don't follow Hypixel's rules. DO NOT USE THE FEATURES IN "USE AT YOUR OWN RISK FEATURES:" IF YOU DON'T WANT TO RISK A BAN. I am not responsible if you get banned.
 
 NOTE: The more money you have the more money you will make. (Very common sense, but don't want people getting angry.)
 
-Report bugs to the discord.
+Report bugs pls.
