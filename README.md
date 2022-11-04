@@ -27,7 +27,7 @@ USE AT YOUR OWN RISK FEATURES:
 
 NOTE: 
 - The more money you have the more money you will make. (Very common sense, but don't want people getting angry.) 
-- For some reason BZ notifier breaks with this mod. Remove the mod and it will fix itself.
+- For some reason BZ notifier breaks with this mod. Remove BZ notifier mod and it will fix itself.
 
 Report bugs pls.
 
