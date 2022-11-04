@@ -17,6 +17,7 @@ Features:
 - Maximum Price
 - Amount of sales per day
 - Automatically Updates
+- BZ Flipper?? (WIP)
 
 USE AT YOUR OWN RISK FEATURES:
 - Automatically buys items and sells them for lowest BIN
@@ -24,8 +25,11 @@ USE AT YOUR OWN RISK FEATURES:
 - Auto buy booster cookie (for /ah and no AFK kicks)
 - The things listed in this category are not detected, but probably don't follow Hypixel's rules. DO NOT USE THE FEATURES IN "USE AT YOUR OWN RISK FEATURES:" IF YOU DON'T WANT TO RISK A BAN. I am not responsible if you get banned.
 
-NOTE: The more money you have the more money you will make. (Very common sense, but don't want people getting angry.)
+NOTE: 
+- The more money you have the more money you will make. (Very common sense, but don't want people getting angry.) 
+- For some reason BZ notifier breaks with this mod. Remove the mod and it will fix itself.
 
 Report bugs pls.
 
 DM GRAPES#3522 on Discord if you have problems (Server Coming Soon).
+
