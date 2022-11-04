@@ -14,6 +14,7 @@ Features:
 - Minimum Price
 - Maximum Price
 - Amount of sales per day
+- Automatically Updates
 
 USE AT YOUR OWN RISK FEATURES:
 - Automatically buys items and sells them for lowest BIN
