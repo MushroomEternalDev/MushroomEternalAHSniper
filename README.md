@@ -24,4 +24,4 @@ USE AT YOUR OWN RISK FEATURES:
 
 NOTE: The more money you have the more money you will make. (Very common sense, but don't want people getting angry.)
 
-Report bugs pls.
+Report bugs pls. Currently BETA 1.0.0
